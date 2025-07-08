@@ -17,11 +17,11 @@
 
 ---
 
-### 🏅 Achievements
+### 🏆 GitHub Achievements
 
-[![Arctic Vault](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue?style=for-the-badge&logo=github)](https://github.com/users/anushamanujaya/achievements)
-[![Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blueviolet?style=for-the-badge&logo=github)](https://developer.github.com/program/)
-![GitHub User](https://img.shields.io/badge/Joined%20GitHub-in%202022-informational?style=for-the-badge&logo=github)
+[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-🧊-blue?style=flat-square)](https://github.com/users/anushamanujaya/achievements)
+[![GitHub Developer Program](https://img.shields.io/badge/Developer%20Program-Member-blueviolet?style=flat-square)](https://developer.github.com/program/)
+![Joined GitHub](https://img.shields.io/badge/Joined-GitHub%20in%202022-informational?style=flat-square)
 
 ---
 
