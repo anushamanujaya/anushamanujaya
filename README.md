@@ -58,7 +58,7 @@
 
 ### 🐍 Contribution Snake Animation
 
-![snake gif](https://github.com/anushamanujaya/anushamanujaya/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/anushamanujaya/anushamanujaya/output/github-contribution-grid-snake.svg)
 
 ---
 
