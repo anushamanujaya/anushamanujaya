@@ -1,81 +1,48 @@
-<h1 align="center">Hi there 👋, I'm Anush Manuja</h1>
-<h3 align="center">Software Engineering Undergraduate | MERN Stack Developer | UI/UX Enthusiast</h3>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F76E6E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+MERN+Stack+Developer;UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" />
-</h2>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 3rd Year Software Engineering Student at NSBM Green University
-- 💻 Full-stack Developer with MERN (MongoDB, Express.js, React.js, Node.js)
-- 🎨 Passionate about UI/UX using Figma and Tailwind CSS
-- 📱 Learning Mobile Development with Flutter
-- 🚀 Currently working on: `Health Assistant AI`, `Library Management System`, and more!
-
----
-
-### 🏅 Achievements
-
-[![Arctic Vault](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue?style=for-the-badge&logo=github)](https://github.com/users/anushamanujaya/achievements)
-[![Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blueviolet?style=for-the-badge&logo=github)](https://developer.github.com/program/)
-![GitHub User](https://img.shields.io/badge/Joined%20GitHub-in%202022-informational?style=for-the-badge&logo=github)
-
----
-
-### 🛠️ Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Code-React.js-blue" />
-  <img src="https://img.shields.io/badge/Code-Node.js-brightgreen" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-yellowgreen" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-blueviolet" />
-  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-38b2ac" />
-  <img src="https://img.shields.io/badge/Tool-Figma-red" />
-  <img src="https://img.shields.io/badge/Tool-Postman-orange" />
-  <img src="https://img.shields.io/badge/Version_Control-Git-black" />
-</p>
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushamanujaya&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anushamanujaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  I'm <b>Anush Manuja</b> — a final-year Software Engineering undergraduate passionate about building scalable web apps, UI/UX design, and full-stack development with the MERN stack.
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🚀 Tech Stack
 
-<p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=anushamanujaya&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/anushamanujaya/anushamanujaya/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,tailwind,figma,flutter,py" height="60" />
+  <img src="https://skillicons.dev/icons?i=go,graphql,nestjs,nextjs,rust,aws" height="60" />
+</div>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
-
----
-
-### 📌 Featured Projects
-
-- 📚 [Library Management System](https://github.com/anushamanujaya/Library-Management-System-MERN)
-- 🏥 [Health Assistant AI Voice Bot](https://github.com/anushamanujaya/Health-Assistant-AI)
-- 🏦 [Commercial Bank System](https://github.com/jptdilanka/Commercial-Bank)
+<div align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="https://discord.com/users/yourdiscord"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="https://dev.to/yourdevto"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="30" /></a>
+</div>
 
 ---
 
-⭐️ *Thanks for visiting! Don't forget to star your favorite projects!*
+### 📈 GitHub Stats & Trophies
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anushamanujaya&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anushamanujaya&theme=dracula&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+### 🕹️ Fun Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushamanujaya/anushamanujaya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushamanujaya/anushamanujaya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anushamanujaya/anushamanujaya/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+⭐️ *Thanks for visiting! Don't forget to follow and check out my pinned projects!*
