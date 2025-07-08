@@ -17,25 +17,18 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏅 Achievements
 
-[![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-🧊-blue?style=flat-square)](https://github.com/users/anushamanujaya/achievements)
-[![GitHub Developer Program](https://img.shields.io/badge/Developer%20Program-Member-blueviolet?style=flat-square)](https://developer.github.com/program/)
-![Joined GitHub](https://img.shields.io/badge/Joined-GitHub%20in%202022-informational?style=flat-square)
+[![Arctic Vault](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue?style=for-the-badge&logo=github)](https://github.com/users/anushamanujaya/achievements)
+[![Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blueviolet?style=for-the-badge&logo=github)](https://developer.github.com/program/)
+![GitHub User](https://img.shields.io/badge/Joined%20GitHub-in%202022-informational?style=for-the-badge&logo=github)
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Code-React.js-blue" />
-  <img src="https://img.shields.io/badge/Code-Node.js-brightgreen" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-yellowgreen" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-blueviolet" />
-  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-38b2ac" />
-  <img src="https://img.shields.io/badge/Tool-Figma-red" />
-  <img src="https://img.shields.io/badge/Tool-Postman-orange" />
-  <img src="https://img.shields.io/badge/Version_Control-Git-black" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,figma,tailwind,git,github,vscode,postman" />
 </p>
 
 ---
