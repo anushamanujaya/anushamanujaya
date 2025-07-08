@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Anush Manuja</h1>
+<h1 align="center">Hi there 👋, I'm Anush Manuja</h1>
 <h3 align="center">Software Engineering Undergraduate | MERN Stack Developer | UI/UX Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F76E6E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+MERN+Stack+Developer;UI%2FUX+Designer;Always+learning+new+things!" alt="Typing SVG" />
+</h2>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 3rd year Software Engineering student at **NSBM Green University**
-- 💻 MERN Stack Developer | Familiar with **React.js, Node.js, Express.js, MongoDB**
-- 🎨 UI/UX enthusiast | Experienced with **Figma & Tailwind CSS**
-- 📱 Learning mobile development with **Flutter**
+
+- 🎓 3rd Year Software Engineering Student at NSBM Green University
+- 💻 Full-stack Developer with MERN (MongoDB, Express.js, React.js, Node.js)
+- 🎨 Passionate about UI/UX using Figma and Tailwind CSS
+- 📱 Learning Mobile Development with Flutter
 - 🚀 Currently working on: `Health Assistant AI`, `Library Management System`, and more!
-- 🌱 Always eager to learn and explore new technologies
 
 ---
 
@@ -35,26 +35,31 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anushamanujaya&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anushamanujaya&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anusha-manujaya-a80768255)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anushmanuja@gmail.com)
 
 ---
 
-### 🔗 Projects to Check Out
+### 🔗 Featured Projects
 
-- 📚 [Library Management System](https://github.com/your-username/Library-Management-System-MERN)
-- 🏥 [Health Assistant AI Voice Bot](https://github.com/your-username/Health-Assistant-AI)
+- 📚 [Library Management System](https://github.com/anushamanujaya/Library-Management-System-MERN)
+- 🏥 [Health Assistant AI Voice Bot](https://github.com/anushamanujaya/Health-Assistant-AI)
 - 🏦 [Commercial Bank System](https://github.com/jptdilanka/Commercial-Bank)
 
 ---
 
-⭐️ *Feel free to star some repositories if you like my work!*
+### 🐍 Contribution Snake Animation
 
+![snake gif](https://github.com/anushamanujaya/anushamanujaya/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ *Thanks for visiting! Don’t forget to star your favorite projects!*
