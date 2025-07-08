@@ -50,11 +50,10 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/anushamanujaya/anushamanujaya/output/github-contribution-grid-snake.svg)
 
----
 
 ### 🌐 Connect with Me
 
