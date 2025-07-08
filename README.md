@@ -17,6 +17,14 @@
 
 ---
 
+### 🏅 Achievements
+
+[![Arctic Vault](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue?style=for-the-badge&logo=github)](https://github.com/users/anushamanujaya/achievements)
+[![Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blueviolet?style=for-the-badge&logo=github)](https://developer.github.com/program/)
+![GitHub User](https://img.shields.io/badge/Joined%20GitHub-in%202022-informational?style=for-the-badge&logo=github)
+
+---
+
 ### 🛠️ Technologies & Tools
 
 <p>
@@ -35,24 +43,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anushamanujaya&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anushamanujaya&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushamanujaya&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anushamanujaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🔥 GitHub Streak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anusha-manujaya-a80768255)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anushmanuja@gmail.com)
-
----
-
-### 🔗 Featured Projects
-
-- 📚 [Library Management System](https://github.com/anushamanujaya/Library-Management-System-MERN)
-- 🏥 [Health Assistant AI Voice Bot](https://github.com/anushamanujaya/Health-Assistant-AI)
-- 🏦 [Commercial Bank System](https://github.com/jptdilanka/Commercial-Bank)
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=anushamanujaya&theme=tokyonight" />
+</p>
 
 ---
 
@@ -62,4 +63,19 @@
 
 ---
 
-⭐️ *Thanks for visiting! Don’t forget to star your favorite projects!*
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+
+---
+
+### 📌 Featured Projects
+
+- 📚 [Library Management System](https://github.com/anushamanujaya/Library-Management-System-MERN)
+- 🏥 [Health Assistant AI Voice Bot](https://github.com/anushamanujaya/Health-Assistant-AI)
+- 🏦 [Commercial Bank System](https://github.com/jptdilanka/Commercial-Bank)
+
+---
+
+⭐️ *Thanks for visiting! Don't forget to star your favorite projects!*
