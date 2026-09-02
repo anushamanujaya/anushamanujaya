@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Anush Manuja</h1>
+<h1 align="center">Hi there 👋, I'm Anusha Manujaya</h1>
 <h3 align="center">Software Engineering Undergraduate | MERN Stack Developer | UI/UX Enthusiast</h3>
 
 <h2 align="center">
@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Year Software Engineering Student at NSBM Green University
-- 💻 Full-stack Developer with MERN (MongoDB, Express.js, React.js, Node.js)
+- 🎓 Final Year Software Engineering Student at NSBM Green University
+- 💻 Full-stack Developer
 - 🎨 Passionate about UI/UX using Figma and Tailwind CSS
 - 📱 Learning Mobile Development with Flutter
 - 🚀 Currently working on: `Health Assistant AI`, `Library Management System`, and more!
